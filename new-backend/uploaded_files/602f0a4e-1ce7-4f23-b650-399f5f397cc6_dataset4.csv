@@ -1,0 +1,11 @@
+UserID,FirstName,LastName,EmailAddress,PhoneNumber,StreetAddress,City,State,ZipCode,DateOfBirth
+1,John,Doe,johndoe@email.com,555-123-4567,123 Main St,Anytown,CA,12345,1985-05-15
+2,Jane,Smith,janesmith@email.com,555-987-6543,456 Oak Ave,Somewhere,NY,67890,1992-11-20
+3,Robert,Johnson,robertj@email.com,555-222-3333,789 Pine Ln,Otherplace,TX,54321,1978-02-10
+4,Emily,Davis,emilyd@email.com,555-444-5555,101 Maple Rd,Anotherburg,FL,98765,1999-07-25
+5,Michael,Wilson,michaelw@email.com,555-666-7777,202 Birch Blvd,Anycity,IL,24680,1981-09-01
+6,Sarah,Brown,sarahb@email.com,555-888-9999,303 Cedar Ct,Anyville,WA,13579,1995-04-30
+7,David,Jones,davidj@email.com,555-111-2222,404 Elm St,Nowhere,AZ,86420,1973-12-05
+8,Jessica,Garcia,jessicag@email.com,555-333-4444,505 Spruce Dr,Somewhereville,GA,97531,1988-06-18
+9,Chris,Miller,chrism@email.com,555-555-6666,606 Ash Rd,Newtown,OH,80246,1980-03-22
+10,Amanda,Rodriguez,amandar@email.com,555-777-8888,707 Walnut Ave,Oldtown,MI,70984,1990-10-08
