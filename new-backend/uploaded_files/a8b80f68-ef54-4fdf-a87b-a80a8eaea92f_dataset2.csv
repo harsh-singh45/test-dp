@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Salary,Age,PerformanceRating
+101,Alice,Engineering,95000,34,4
+102,Bob,Marketing,72000,28,3
+103,Charlie,Engineering,110000,45,5
+104,Diana,Sales,85000,39,4
+105,Eve,Marketing,68000,25,3
+106,Frank,Sales,91000,31,4
+107,Grace,HR,75000,41,3
+108,Heidi,Engineering,125000,36,5
+109,Ivan,IT,88000,29,4
+110,Judy,IT,92000,33,5

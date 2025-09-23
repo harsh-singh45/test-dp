@@ -1,0 +1,2 @@
+job_id,dataset_id,status,query_type,epsilon,delta,created_at
+1,1,Completed,MEAN on UserID,1.0,0.0,2025-09-22T10:41:39.029120
