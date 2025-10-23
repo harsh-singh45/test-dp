@@ -1,2 +1,0 @@
-dataset_name,total_epsilon,consumed_epsilon,remaining_epsilon,total_delta,consumed_delta,remaining_delta
-test 1,10.0,1.0,9.0,5e-05,0.0,5e-05
